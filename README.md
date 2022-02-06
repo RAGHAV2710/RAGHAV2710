@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RAGHAV2710
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently a student at Maharaja Agrasen Institute of Technolgy under Electronics and Communication Engineering.
+-     Also I have acquired shills for 
 - 📫 How to reach me https://www.linkedin.cn/in/raghav-makhija-577153193/
 
 <!---
