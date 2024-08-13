@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAGHAV2710
 - 👀 I’m interested in learning new technincal skills. 
-- 🌱 I’m currently a student at Maharaja Agrasen Institute of Technolgy under Electronics and Communication Engineering.
+- 🌱 I’m currently a graduate from Maharaja Agrasen Institute of Technolgy under Electronics and Communication Engineering.
 -     Also I have acquired shills in Machine Learning with python and also was an intern previously. 
 
 -  I am looking forward to work with an organisation.  
